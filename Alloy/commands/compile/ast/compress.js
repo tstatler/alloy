@@ -17,6 +17,7 @@ exports.process = function(ast, config) {
 	_.each(CONST.PLATFORMS, function(p) {
 		defines['OS_' + p.toUpperCase()] = config.platform === p;
 	});
+	defines.GEN_HYPERLOOP = !!config.hyperloop;
 
 	var compressor = uglifyjs.Compressor({
 		sequences     : false,  // join consecutive statemets with the “comma operator”

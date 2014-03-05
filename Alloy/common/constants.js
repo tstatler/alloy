@@ -1,7 +1,8 @@
 var isTitanium = typeof Titanium !== 'undefined';
+var isHyperloop = typeof dispatch_async !== 'undefined';
 var _, generatePlatformArray;
 
-if (isTitanium) {
+if (isTitanium || isHyperloop) {
 	_ = require('alloy/underscore')._;
 } else {
 	var platforms = require('../../platforms/index');

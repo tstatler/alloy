@@ -41,6 +41,7 @@ program
 	.option('-b, --noBanner', 'Disable the banner')
 	.option('-c, --config <config>','Pass in compiler configuration')
 	.option('-f, --force','Force the command to execute')
+	.option('-H, --hyperloop', 'Generate code for hyperloop (windows only, unstable)')
 	.option('-l, --logLevel <logLevel>', 'Log level (default: 3 [DEBUG])')
 	.option('-n, --no-colors','Turn off colors')
 	.option('-o, --outputPath <outputPath>', 'Output path for generated code')

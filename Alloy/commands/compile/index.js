@@ -58,6 +58,7 @@ module.exports = function(args, program) {
 	// construct compiler config from command line config parameters
 	// and print the configuration data
 	logger.debug('----- CONFIGURATION -----');
+	if (program.hyperloop) { alloyConfig.hyperloop = true; }
 	if (program.config && _.isString(program.config)) {
 		logger.debug('raw config = "' + program.config + '"');
 		_.each(program.config.split(','), function(v) {
