@@ -2,7 +2,7 @@
 
 The latest release of Alloy is 1.3.1.
 
-## Release 1.3.1
+## Release 1.3.1 (05/05/2014)
 
 * [ALOY-905](https://jira.appcelerator.org/browse/ALOY-905). Alloy now supports TiSDK 3.0.0+ again!
 * [ALOY-907](https://jira.appcelerator.org/browse/ALOY-907). Fixed unhandled exception errors in invalid JS.
