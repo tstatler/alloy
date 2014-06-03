@@ -1,4 +1,5 @@
 ## Titanium Alloy Release Notes
+---
 
 The latest release of Alloy is 1.3.1.
 
