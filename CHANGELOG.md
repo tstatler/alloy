@@ -2,7 +2,7 @@
 
 The latest release of Alloy is 1.3.1.
 
-## Release 1.3.1 (05/05/2014)
+### Release 1.3.1 (05/05/2014)
 
 Below are the new key features and fixes in this release. Also see the [full list of changes](https://jira.appcelerator.org/secure/IssueNavigator.jspa?mode=hide&requestId=15666).
 
@@ -17,13 +17,13 @@ Below are the new key features and fixes in this release. Also see the [full lis
  
 
 --- 
-## 1.3.0
+### Release 1.3.0 (MM/DD/YYYY)
 
 * [Full list of Issues that were addressed in Release 1.3.0](https://jira.appcelerator.org/secure/IssueNavigator.jspa?mode=hide&requestId=15575)
 
-### Breaking Changes
+#### Breaking Changes
 
-#### Titanium SDK Support
+##### Titanium SDK Support
 
 Due changes in the application build process for both Alloy and the Titanium SDK,
 Alloy 1.3.0 only supports Titanium SDK 3.2.0 and later. You can find details on this in the following tickets:
@@ -31,7 +31,7 @@ Alloy 1.3.0 only supports Titanium SDK 3.2.0 and later. You can find details on 
 * [TIMOB-14884](https://jira.appcelerator.org/browse/TIMOB-14884)
 * [ALOY-760](https://jira.appcelerator.org/browse/ALOY-760)
 
-### New Features
+#### New Features
 
 #### XML Markup Enhancements
 
