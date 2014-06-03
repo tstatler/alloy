@@ -1,8 +1,6 @@
 ## Titanium Alloy Release Notes
 ---
 
-The latest release of Alloy is 1.3.1.
-
 ### Release 1.3.1 (05/05/2014)
 
 Below are the new key features and fixes in this release. Also see the [full list of changes](https://jira.appcelerator.org/secure/IssueNavigator.jspa?mode=hide&requestId=15666).
