@@ -1,5 +1,4 @@
 ## Titanium Alloy Release Notes
----
 
 ### Release 1.3.1 (05/05/2014)
 
