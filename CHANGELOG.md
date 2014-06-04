@@ -18,7 +18,7 @@ Below are the new key features and fixes in this release. Also see the [full lis
 --- 
 ### Release 1.3.0 (MM/DD/YYYY)
 
-* [Full list of Issues that were addressed in Release 1.3.0](https://jira.appcelerator.org/secure/IssueNavigator.jspa?mode=hide&requestId=15575)
+Below are the new key features and fixes in this release. Also see the [full list of changes](https://jira.appcelerator.org/secure/IssueNavigator.jspa?mode=hide&requestId=15575).
 
 #### Breaking Changes
 
