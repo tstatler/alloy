@@ -11,6 +11,8 @@ var Alloy = require('alloy'),
  * `views` folder. Each element in the view hierarchy is either a Titanium {@link Titanium.UI.View View}
  * or another Alloy controller or widget. Each Alloy controller or widget can additionally contain
  * Titanium Views and/or more controllers and widgets.
+ * 
+ * My new docs...
  *
  */
 var Controller = function() {
